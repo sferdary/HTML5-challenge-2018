@@ -19,11 +19,21 @@
     <nav>
         <ul>
             <li><a href="../../index.php">Home</a></li>
-            <li><a href="../salons/salons.php">Salons</a> </li>
-            <li><a href="producten.php">Producten</a> </li>
-            <li><a href="../openingstijden/openingstijden.php">Openingstijden</a> </li>
+            <li><a href="../salons/salons.php">Salons</a></li>
+            <li><a href="producten.php">Producten</a></li>
+            <li><a href="../openingstijden/openingstijden.php">Openingstijden</a></li>
         </ul>
     </nav>
+    <h1>Raveen</h1>
+    <h3>Supreme beauty products corporation. Chicago Illinois</h3>
+    <div>
+        <img src="../../../content/img/reclame/raveen-logo.gif">
+        <div>
+            <img src="../../../content/img/reclame/raveen_02.jpg">
+            <img src="../../../content/img/reclame/raveen_03.jpg">
+            <img src="../../../content/img/reclame/raveen_04.jpg">
+        </div>
+    </div>
 </header>
 <main>
 
