@@ -32,9 +32,9 @@
     </div>
     <div>
         <h3>Onze specialiteiten</h3>
-        <a href=""><img src="../content/img/dreadlocks/300x300/wiz_khalifa300x300.jpg" alt="bleached_rasta" </a>
-        <a href=""><img src="../content/img/dreadlocks/300x300/maxresdefault02-300x300.jpg" alt="woman_rasta" </a>
-        <a href=""><img src="../content/img/dreadlocks/300x300/rainbowtwins300x300.jpg" alt="rainbow_rasta" </a>
+        <a href=""><img src="../content/img/dreadlocks/300x300/wiz_khalifa300x300.jpg" alt="rasta" </a>
+        <a href=""><img src="../content/img/andere%20haarstijlen/300x300/Corey_Layzell300x300.jpg" alt="curls" </a>
+        <a href=""><img src="../content/img/andere%20haarstijlen/300x300/Wild__red_hair300x300.jpg" alt="wild" </a>
     </div>
 </main>
 <footer>
