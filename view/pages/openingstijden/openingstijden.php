@@ -29,7 +29,7 @@
 <main>
 <div>
     <h2>Openingstijden</h2>
-    <?php require '../../../content/elements/openingstijden_table.php' ?>
+    <?php require '../../../content/elements/desktop/openingstijden_table.php' ?>
 </div>
 </main>
 <footer>

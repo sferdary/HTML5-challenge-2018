@@ -1,3 +1,16 @@
-table, tr, td{
+table.desktop-table, table.desktop-table tr, table.desktop-table td {
     border: 1px solid black;
+}
+
+table.mobile-table {
+    border-bottom: 1px solid black;
+    width: 300px;
+}
+table.mobile-table td{
+    width: 100px;
+}
+td.prijs{
+    text-align: right;
+    font-size: 25px;
+    font-weight: bold;
 }

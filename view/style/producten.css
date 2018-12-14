@@ -1,0 +1,10 @@
+div#reclame {
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+img#raveen01,img#raveen02, img#raveen03{
+    width: 300px;
+    height: auto;
+}

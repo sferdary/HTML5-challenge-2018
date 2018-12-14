@@ -9,26 +9,31 @@
 <!DOCTYPE HTML>
 <html>
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Scissor magic</title>
-    <link href="style.css" rel="stylesheet">
+    <link href="style/style.css" rel="stylesheet">
     <link href="style/tablestyle.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Oswald:300,700" rel="stylesheet">
 </head>
 <body>
 <header>
-    <a href="index.php"><img src="../content/img/scissor-magic-logo.jpg" alt="Logo" </a>
+    <a href="index.php"><img id="logo" src="../content/img/scissor-magic-logo.jpg" alt="Logo" </a>
     <nav>
         <ul>
             <li><a href="index.php">Home</a></li>
-            <li><a href="pages/salons/salons.php">Salons</a></li>
             <li><a href="pages/producten/producten.php">Producten</a></li>
+            <li><a href="pages/salons/salons.php">Salons</a></li>
             <li><a href="pages/openingstijden/openingstijden.php">Openingstijden</a></li>
         </ul>
     </nav>
 </header>
 <main>
-    <div>
-        <?php require '../content/elements/prijzen_table.php'; ?>
+    <div id="desktop-table">
+        <?php require '../content/elements/desktop/prijzen_table.php'; ?>
+    </div>
+    <div id="mobile-table">
+        <?php require '../content/elements/mobile/prijzen_table.php'; ?>
     </div>
     <div>
         <h3>Onze specialiteiten</h3>

@@ -1,5 +1,6 @@
 <?php ?>
-<table>
+<!--DESKTOP-->
+<table class="desktop-table">
     <tr>
         <td colspan="2">Prijzen</td>
     </tr>
