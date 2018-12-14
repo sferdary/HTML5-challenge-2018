@@ -14,3 +14,8 @@ td.prijs{
     font-size: 25px;
     font-weight: bold;
 }
+
+table.openingstijden-table, table.openingstijden-table tr,table.openingstijden-table td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}

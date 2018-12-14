@@ -1,14 +1,19 @@
 @media all and (max-width: 550px) {
-    div#reclame {
+
+    div#onze-salon {
         display: block;
         margin-left: auto;
         margin-right: auto;
         width: 300px;
     }
 
-    img#raveen01, img#raveen02, img#raveen03 {
-        width: 300px;
+    img#barbershop {
+    width: 300px;
         height: auto;
-        margin-bottom: 0 !important;
     }
+
+    iframe#maps {
+        width: 300px !important;
+    }
+
 }

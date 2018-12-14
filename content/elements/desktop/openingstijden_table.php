@@ -7,9 +7,7 @@
  */
 ?>
 
-<table>
-
-
+<table class="openingstijden-table">
     <tr>
         <td rowspan="5">Kapsalon Scissor Magic in Huizen</td>
         <td rowspan="2">ma - vr</td>
@@ -31,8 +29,6 @@
         <td>Gesloten</td>
     </tr>
 
-
-
     <tr>
         <td rowspan="5">Kapsalon Scissor Magic in Naarden</td>
         <td rowspan="2">ma - vr</td>
@@ -53,7 +49,6 @@
         <td>zo</td>
         <td>Gesloten</td>
     </tr>
-
 
     <tr>
         <td rowspan="6">Kapsalon Scissor Magic in Utrecht</td>

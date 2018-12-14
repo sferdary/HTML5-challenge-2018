@@ -9,9 +9,12 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Producten - Scissor magic</title>
-    <link href="style.css" rel="stylesheet">
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rasta - Scissor magic</title>
+    <link href="../../style/style.css" rel="stylesheet">
+    <link href="../../style/rasta.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Oswald:300,700" rel="stylesheet">
 </head>
 <body>
 <header>
