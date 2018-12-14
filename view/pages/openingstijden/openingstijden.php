@@ -18,6 +18,7 @@
     <a href="../../index.php"><img src="../../../content/img/scissor-magic-logo.jpg" alt="Logo" </a>
     <nav>
         <ul>
+            <li><a href="../../index.php">Home</a></li>
             <li><a href="../salons/salons.php">Salons</a> </li>
             <li><a href="../producten/producten.php">Producten</a> </li>
             <li><a href="openingstijden.php">Openingstijden</a> </li>

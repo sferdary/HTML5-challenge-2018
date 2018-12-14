@@ -9,7 +9,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Salons - Scissor magic</title>
+    <title>Producten - Scissor magic</title>
     <link href="style.css" rel="stylesheet">
 
 </head>
@@ -18,8 +18,9 @@
     <a href="../../index.php"><img src="../../../content/img/scissor-magic-logo.jpg" alt="Logo" </a>
     <nav>
         <ul>
-            <li><a href="salons.php">Salons</a> </li>
-            <li><a href="../producten/producten.php">Producten</a> </li>
+            <li><a href="../../index.php">Home</a></li>
+            <li><a href="../salons/salons.php">Salons</a> </li>
+            <li><a href="producten.php">Producten</a> </li>
             <li><a href="../openingstijden/openingstijden.php">Openingstijden</a> </li>
         </ul>
     </nav>
