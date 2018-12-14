@@ -12,7 +12,7 @@
     <title>Scissor magic</title>
     <link href="style.css" rel="stylesheet">
     <link href="style/tablestyle.css" rel="stylesheet">
-
+    <link href="https://fonts.googleapis.com/css?family=Oswald:300,700" rel="stylesheet">
 </head>
 <body>
 <header>

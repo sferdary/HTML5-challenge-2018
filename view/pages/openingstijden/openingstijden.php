@@ -11,6 +11,7 @@
 <head>
     <title>Openingstijden - Scissor magic</title>
     <link href="style.css" rel="stylesheet">
+    <link href="../../style/tablestyle.css" rel="stylesheet">
 
 </head>
 <body>
@@ -26,7 +27,10 @@
     </nav>
 </header>
 <main>
-
+<div>
+    <h2>Openingstijden</h2>
+    <?php require '../../../content/elements/openingstijden_table.php' ?>
+</div>
 </main>
 <footer>
 
