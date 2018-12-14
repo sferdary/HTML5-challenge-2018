@@ -24,6 +24,9 @@
             <li><a href="../openingstijden/openingstijden.php">Openingstijden</a></li>
         </ul>
     </nav>
+
+</header>
+<main>
     <h1>Raveen</h1>
     <h3>Supreme beauty products corporation. Chicago Illinois</h3>
     <div>
@@ -34,9 +37,6 @@
             <img src="../../../content/img/reclame/raveen_04.jpg">
         </div>
     </div>
-</header>
-<main>
-
 </main>
 <footer>
 
