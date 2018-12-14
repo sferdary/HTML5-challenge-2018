@@ -15,7 +15,7 @@
 </head>
 <body>
 <header>
-
+<a href="index.php"><img src="content/img/scissor-magic-logo.jpg" alt="Logo" </a>
 </header>
 <main>
 
